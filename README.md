@@ -10,7 +10,7 @@ I used Python to scrape and compile the dataset, R for sentiment analysis and vi
 
 Two take aways:
 - I liked the word cloud that I was able to generate
-- I really like how I was able to scrape IMDb reviews ESPECIALLY after I found out the IMDb datasets sell for $50-$400k
+- I really like how I was able to scrape IMDb reviews ESPECIALLY after I found out that IMDb datasets sell for $50-$400k
 
 I used R-bloggers and Analytics Vidhya as resources, linked here: 
 - https://www.analyticsvidhya.com/blog/2022/07/scraping-imdb-reviews-in-python-using-selenium/
