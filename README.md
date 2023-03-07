@@ -1,4 +1,4 @@
-# Sentiment Analyisis with Transformers
+# Sentiment Analysis & Film Rating Prediction with Transformers
 ## Film Reviews from IMDb
 ### Concepts & Ideas used:
   1. Web Scraping using Selenium 
