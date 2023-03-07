@@ -61,23 +61,3 @@ wordcloud2(w,
            shape = 'triangle',
            rotateRatio = 0.5,
            minSize = 1)
-
-# sentiment analysis
-library(pacman)
-p_load(syuzhet,lubridate,ggplot2,scales,reshape2,dplyr)
-library(syuzhet)
-library(lubridate)
-library(ggplot2)
-library(scales)
-library(reshape2)
-library(dplyr)
-
-reviews <- iconv(data$Review)
-s <- get_nrc_sentiment(reviews)
-head(s)
-
-barplot(colSums(s),
-        las = 2,
-        col = rainbow(10),
-        ylab = 'Count',
-        main = 'Sentiment Scores for Reviews')
