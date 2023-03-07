@@ -1,5 +1,3 @@
-# sentiment analysis || sources: https://www.r-bloggers.com/2021/05/sentiment-analysis-in-r-3/
-
 #load data
 data <- read.csv("C:/Users/User/Desktop/ichi the killer sentiment analysis/ichi_the_killer_imdb_reviews.csv", header = T)
 
