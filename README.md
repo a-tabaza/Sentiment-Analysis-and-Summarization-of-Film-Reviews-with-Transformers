@@ -7,9 +7,9 @@
   4. Sentiment Analysis using Transformers
   5. Using Pretrained Transformers to generate sentiment features to predict numerical film rating
 
-### Word Clouds:
+### Word Cloud:
 <img src="https://github.com/a-tabaza/sentiment-analysis-and-film-rating-prediction-with-transformers/blob/main/wordcloud_combined.jpg?raw=true"  width="800" height="800">
-<img src="[https://github.com/a-tabaza/sentiment-analysis-and-film-rating-prediction-with-transformers/blob/main/wordcloud_combined.jpg?raw=true](https://github.com/a-tabaza/sentiment-analysis-and-film-rating-prediction-with-transformers/blob/main/wordclouds.jpg?raw=true)"  width="1600" height="800">
+
 
 Sources: 
 - [Web Scraping](https://www.analyticsvidhya.com/blog/2022/07/scraping-imdb-reviews-in-python-using-selenium/)
