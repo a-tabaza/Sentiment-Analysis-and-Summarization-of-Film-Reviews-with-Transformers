@@ -4,9 +4,9 @@
   1. Web Scraping using Selenium 
   2. Compiling dataset from scratch
   3. Data Vizualization with Text datasets
-  4. Sentiment Analysis using [Transformers](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english)
-  5. Using Pretrained Transformers to generate sentiment features to predict numerical film rating
-  6. Using Pretrained Transformers to generate a text summary of the review
+  4. Sentiment Analysis using [Pretrained Transformers](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english)
+  5. Using [Pretrained Transformers](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english) to generate sentiment features to predict numerical film rating
+  6. Using [Pretrained Transformers](https://huggingface.co/philschmid/bart-large-cnn-samsum) to generate a text summary of the review
 
 ### Word Cloud:
 <img src="https://github.com/a-tabaza/sentiment-analysis-and-film-rating-prediction-with-transformers/blob/main/combined_wc_resized.png?raw=true"  width="1200" height="770">
