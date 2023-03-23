@@ -4,7 +4,7 @@
   1. Web Scraping using Selenium 
   2. Compiling dataset from scratch
   3. Data Vizualization with Text datasets
-  4. Sentiment Analysis using Transformers
+  4. Sentiment Analysis using [Transformers](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english)
   5. Using Pretrained Transformers to generate sentiment features to predict numerical film rating
 
 ### Word Cloud:
