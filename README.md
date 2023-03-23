@@ -1,4 +1,4 @@
-# Sentiment Analysis on Film Reviews with Transformers
+# Sentiment Analysis and Summarization of Film Reviews with Transformers
 ## Film Reviews from IMDb
 ### Concepts & Ideas used:
   1. Web Scraping using Selenium 
@@ -6,6 +6,7 @@
   3. Data Vizualization with Text datasets
   4. Sentiment Analysis using [Transformers](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english)
   5. Using Pretrained Transformers to generate sentiment features to predict numerical film rating
+  6. Using Pretrained Transformers to generate a text summary of the review
 
 ### Word Cloud:
 <img src="https://github.com/a-tabaza/sentiment-analysis-and-film-rating-prediction-with-transformers/blob/main/combined_wc_resized.png?raw=true"  width="1200" height="770">
