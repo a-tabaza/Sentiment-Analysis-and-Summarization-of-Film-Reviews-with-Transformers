@@ -16,4 +16,5 @@
 Sources: 
 - [Web Scraping](https://www.analyticsvidhya.com/blog/2022/07/scraping-imdb-reviews-in-python-using-selenium/)
 - [Sentiment Analysis](https://www.kaggle.com/code/emirkocak/in-depth-series-sentiment-analysis-w-transformers/)
+- [HuggingFace Documentation](https://huggingface.co/blog/sentiment-analysis-python)
 
