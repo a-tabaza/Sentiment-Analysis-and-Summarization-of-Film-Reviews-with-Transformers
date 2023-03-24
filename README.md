@@ -11,7 +11,6 @@
 - [BART Large fine-tuned on CNN and SAMSum datasets](https://huggingface.co/philschmid/bart-large-cnn-samsum) for summarization
 
 ### Word Cloud:
-<img src="https://github.com/a-tabaza/sentiment-analysis-and-film-rating-prediction-with-transformers/blob/main/combined_wc_resized.png?raw=true"  width="1200" height="770">
 <img src="https://github.com/a-tabaza/sentiment-analysis-and-film-rating-prediction-with-transformers/blob/main/wordcloud_combined.jpg?raw=true"  width="800" height="800">
 
 ### Review Summarization:
