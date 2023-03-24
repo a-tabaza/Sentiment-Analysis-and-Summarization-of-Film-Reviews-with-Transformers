@@ -1,4 +1,4 @@
-# **ntiment Analysis and Summarization of Film Reviews with Transformers**
+# **Sentiment Analysis and Summarization of Film Reviews with Transformers**
 ### Concepts & Ideas used:
   1. Web scraping using Selenium 
   2. Compiling dataset from scratch
