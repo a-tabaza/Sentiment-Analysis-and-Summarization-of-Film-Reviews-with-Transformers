@@ -2,7 +2,7 @@
 ### Concepts & Ideas used:
   1. Web scraping using Selenium 
   2. Compiling dataset from scratch
-  3. Data vizualization with text datasets (avanced WordCloud vizualization)
+  3. Data vizualization with text datasets (advanced WordCloud vizualization)
   4. Using Transformers to generate sentiment features such as label and score
   5. Using Transformers to generate a summary of the reviews
 
