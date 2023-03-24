@@ -7,7 +7,7 @@
   5. Using Transformers to generate a summary of the reviews
 
 ### Models Used (HuggingFace):
-- [DistilBERT Base Uncased fine-tuned on SST-2](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english) for sentiment analysis
+- [DistilBERT Base Uncased fine-tuned on SST-2 dataset](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english) for sentiment analysis
 - [BART Large fine-tuned on CNN and SAMSum datasets](https://huggingface.co/philschmid/bart-large-cnn-samsum) for summarization
 
 ### Word Cloud:
